@@ -1,0 +1,1 @@
+# jsonifyEnv.nvim
